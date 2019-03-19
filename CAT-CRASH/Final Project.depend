@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1419990366 source:c:\users\user\desktop\final project\audio.c
+	"audio.h"
+
+1260885116 c:\users\user\desktop\final project\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017858 source:c:\users\user\desktop\final project\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998120 c:\users\user\desktop\final project\console_draw3.h
+
+1419990298 source:c:\users\user\desktop\final project\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\user\desktop\final project\kb_input2.h
+	<windows.h>
+
+1419989952 c:\users\user\desktop\final project\font.h
+
+1419990306 source:c:\users\user\desktop\final project\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989930 c:\users\user\desktop\final project\image.h
+
+1419988854 source:c:\users\user\desktop\final project\kb_input2.c
+	"kb_input2.h"
+
+1452696456 source:c:\users\user\desktop\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	"console_draw3.h"
+	"audio.h"
+	"font.h"
+	"image.h"
+	"kb_input2.h"
+	"framework.h"
+	"easygame.h"
+
+1452693123 source:c:\users\user\desktop\final project\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1452609758 c:\users\user\desktop\final project\framework.h
+	"font.h"
+
+1419990366 source:c:\users\user\desktop\hackathon\final project\audio.c
+	"audio.h"
+
+1260885116 c:\users\user\desktop\hackathon\final project\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017858 source:c:\users\user\desktop\hackathon\final project\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998120 c:\users\user\desktop\hackathon\final project\console_draw3.h
+
+1419990298 source:c:\users\user\desktop\hackathon\final project\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\user\desktop\hackathon\final project\kb_input2.h
+	<windows.h>
+
+1419989952 c:\users\user\desktop\hackathon\final project\font.h
+
+1452609758 source:c:\users\user\desktop\hackathon\final project\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1452609758 c:\users\user\desktop\hackathon\final project\framework.h
+	"font.h"
+
+1419990306 source:c:\users\user\desktop\hackathon\final project\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989930 c:\users\user\desktop\hackathon\final project\image.h
+
+1419988854 source:c:\users\user\desktop\hackathon\final project\kb_input2.c
+	"kb_input2.h"
+
+1452611496 source:c:\users\user\desktop\hackathon\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"audio.h"
+	"font.h"
+	"image.h"
+	"kb_input2.h"
+	"framework.h"
+
+1452695194 c:\users\user\desktop\final project\easygame.h
+
+1452695456 source:c:\users\user\desktop\final project\easygame.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+	"easygame.h"
+
